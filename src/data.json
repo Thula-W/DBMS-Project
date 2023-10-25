@@ -1,0 +1,58 @@
+{
+    "orders": [
+      {
+        "order_id": 101,
+        "store_id": "StoreA",
+        "date": "2023-10-12",
+        "products": [
+          {
+            "id": 201,
+            "name": "ProductA",
+            "size": 2
+          },
+          {
+            "id": 202,
+            "name": "ProductB",
+            "size": 3
+          }
+        ]
+      },
+      {
+        "order_id": 102,
+        "store_id": "StoreB",
+        "date": "2023-10-13",
+        "products": [
+          {
+            "id": 203,
+            "name": "ProductC",
+            "size": 1
+          }
+        ]
+      },
+      {
+        "order_id": 103,
+        "store_id": "StoreC",
+        "date": "2023-10-14",
+        "products": [
+          {
+            "id": 204,
+            "name": "ProductD",
+            "size": 4
+          }
+        ]
+      },
+      {
+        "order_id": 104,
+        "store_id": "StoreA",
+        "date": "2023-10-15",
+        "products": [
+          {
+            "id": 205,
+            "name": "ProductE",
+            "size": 2
+          }
+        ]
+      }
+    ]
+  }
+  
